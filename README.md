@@ -1,6 +1,7 @@
 Welcome to My GitHub Profile! 👋
 About Me
-Hello! I'm Jimmy, a passionate and dedicated Graduate Software Engineer. My journey in the tech world has been diverse and enriching, from supporting library systems to maintaining high-volume voucher systems. Here's a bit more about my professional background:
+Hello! I'm Jimmy, 
+a passionate and dedicated Graduate Software Engineer. My journey in the tech world has been diverse and enriching, from supporting library systems to maintaining high-volume voucher systems. Here's a bit more about my professional background:
 
 Graduate Software Engineer: Currently working in the Vouchers Team, where I maintain and enhance high-volume systems to ensure seamless operations.
 
