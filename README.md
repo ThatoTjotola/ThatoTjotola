@@ -1,6 +1,6 @@
 Welcome to My GitHub Profile! 👋  
 About Me  
-Hello! I'm Jimmy, a passionate and dedicated Graduate Software Engineer.  
+Hello! I'm Jimmy, a passionate and dedicated Junior Software Engineer.  
 My journey in the tech world has been diverse and enriching, from supporting library systems to maintaining high-volume voucher systems. Here's a bit more about my professional background:
 
 Graduate Software Engineer: Currently working in the Vouchers Team, where I maintain and enhance high-volume systems to ensure seamless operations.
@@ -17,29 +17,3 @@ WPF Library System
 Role: Library Assistant Support
 Description: Assisted in managing and supporting a WPF-based library system, providing technical support to students and staff.
 Technologies: cant disclose
-
-**Personal Projects**  
-
-Facial Recognition System  
-
-Role: Developer  
-
-Description: Developed a facial recognition system using C# and WinForms to enhance security and identification processes.
-Technologies: C#, WinForms, opencv  
-
-Data Structures and Algorithms Practice  
-
-
-Role: Developer  
-
-Description: Regularly practice and implement various data structures and algorithms to improve problem-solving skills and coding efficiency.
-Technologies: C#
-
-Fun Facts About Me
-I have a knack for solving complex problems and love diving into new challenges.
-
-When I'm not coding, you can find me exploring new technologies, reading, or enjoying a good cup of coffee.
-
-I'm always eager to learn and collaborate on exciting projects.
-Let's Connect!
-Feel free to reach out to me for collaboration, questions, or just to say hi! You can find me on LinkedIn
